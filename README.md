@@ -1,5 +1,5 @@
 ﻿# HAK_backend
-git clone https://github.com/your-username/your-django-project.git && \
+git clone https://github.com/Jasin-jaz/diLhak_backend.git && \
 cd your-django-project && \
 python3 -m venv venv && \
 source venv/bin/activate && \
